@@ -1,7 +1,7 @@
 package myPack;
 
 public class Engineer {
-
+//Pojo
     private String name;
     private String position;
 
